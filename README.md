@@ -7,6 +7,6 @@ Homebrew formula for Neovim.app (Mac OS X)
 
 ```bash
 $ brew tap shemerey/homebrew-neovim-dot-app
-$ brew install --HEAD neovim
+$ brew install --HEAD neovim-dot-app
 ```
 
