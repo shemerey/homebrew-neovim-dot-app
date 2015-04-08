@@ -20,7 +20,7 @@ class NeovimDotApp < Formula
 
       See :h nvim-python-quickstart for more information.
 
-      If you still experiencing some problems with python try to define
+      If you still experience some problems with python you can try to define
       let g:python_host_prog='/path/to/python' expliciatly in your ~/.nvimrc file
     EOS
   end
